@@ -13,7 +13,7 @@ _that uses zero(0) with the words: 'beep', 'boop' respectively_:
 
 ## Specs
 
-_his web app will take a user number above zero and return a list of numbers counting up from zero to 48_.</br>
+_This web app will take a user number above zero and return a list of numbers counting up from zero to 48_.</br>
 _If the user enter the number Zero it will return a displayed message_.</br>
 _Some of the listed numbers will be replaced with words_.</br>
 _If the number entered is higher than number 48 it will display an image_:
@@ -28,7 +28,7 @@ _If the number entered is higher than number 48 it will display an image_:
     - **3 --> Boop!, 2, SORRY!**
 - Replaces a number that contains 0 with Beep!.
     - **10 --> Boop!, 2, SORRY!, 4, 5, SORRY!, 7, 8, 9, Beep!**    
-- input a number greater than 48:.
+- Replaces Inputted number greater than 48 into jpg:
     - **49 or higher --> (display an image)**
 - Displays all integers from user's input back to one (Boop) if 'reverse' button is selected.
 
