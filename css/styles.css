@@ -1,0 +1,52 @@
+body {
+  color: #white;
+}
+#display-div {
+  overflow: hidden;
+  width: 690px;
+  height: 420px;
+  background-image: url(http://cdn1.thecomeback.com/wp-content/uploads/2017/07/ms-paint-xp.jpg);
+  background-position: center;
+  background-size: cover;
+  column-count: 0;
+  margin: 20px auto;
+  padding: 60px 20px 90px 70px;
+}
+#display-ul {
+  height: 270px;
+  column-count: 3;
+  list-style: none;
+  padding: 0;
+  line-height: 1em;
+}
+img.we-love {
+  display: none;
+  height: 260px;
+}
+
+img.pc-logo {
+  margin: 20px 0 10px 0;
+  height: 160px;
+  width: 140px;
+}
+
+h1  {
+  color: rgb(0, 85, 232);
+}
+
+h2  {
+  font-size: 1.5em;
+}
+
+input  {
+  max-width: 80px;
+}
+
+label  {
+  font-size: 0.85rem
+}
+
+span  {
+  color: red;
+  font-size: 2rem;
+}
